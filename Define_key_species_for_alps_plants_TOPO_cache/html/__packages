@@ -1,0 +1,14 @@
+base
+knitr
+corrplot
+MuMIn
+Matrix
+lme4
+foreach
+gam
+optimx
+foreign
+ade4
+ggplot2
+ggthemes
+reshape2
